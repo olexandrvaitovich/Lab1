@@ -1,0 +1,1 @@
+There is my programing lab. Task was to create map with some number of icons which show places of making films on the certain year. Result is saved in wmap.html.
